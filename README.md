@@ -25,4 +25,6 @@ Este projeto contém um notebook Jupyter dedicado à análise de desempenho de u
 3. Execute o notebook no Jupyter Notebook ou Google Colab.
 
 ## 📞 Contato
-Caso tenha dúvidas ou sugestões, fique à vontade para entrar em contato!
+Whatsapp: (+55) 61 99503-7362
+Instagram: @jonas_honorato_
+Linkedin: jonas-honorato
